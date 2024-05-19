@@ -3,6 +3,8 @@
 
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Likha kya ?</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -11,11 +13,11 @@
 </head>
 
 <body>
-<div class="container g-0">
+<div class="container">
 
 <p style="font-size: 18px;" class="my-3 text-center">Likha kya ?</p>
-<button id="addNoteButton">Add Note</button>
-<ul class="row g-0" id="notesList"></ul>
+<button class="mb-4" id="addNoteButton">Add Note</button>
+<ul class="row" id="notesList"></ul>
 
 <!-- Modal -->
 <div id="noteModal" class="modal1 col-4">
