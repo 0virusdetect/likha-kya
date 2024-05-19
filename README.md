@@ -29,4 +29,6 @@ Likha-Kya is built using PHP, HTML, CSS, and JavaScript, offering a seamless and
 <img src="https://github.com/0virusdetect/likha-kya/assets/47599266/ae4529cb-9d67-4ff9-a5c8-c452b3aa6882"height="440">
 </div>
 
+For Future updates- i can add get notification,pin top three notes at the top,simply drag and drop for positioning the list,delete a single list content.
+
 Thankyou
