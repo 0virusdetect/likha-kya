@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 * 💻 CSS
 * 💻 PHP
   
-## **likha-kya ?**
+## **Likha-Kya ?**
 Your Ultimate Note-Taking Companion
 
 Likha-Kya is a versatile note-taking application designed to cater to the needs of everyone, from students and professionals to creatives and homemakers. With its user-friendly interface and robust features, Likha-Kya makes it effortless to jot down and organize your thoughts, ideas, tasks, and reminders, ensuring that you never miss a beat. Whether you're attending a lecture, brainstorming for a project, or simply capturing fleeting moments of inspiration, Likha-Kya is your reliable digital companion, helping you remember everything that matters.
