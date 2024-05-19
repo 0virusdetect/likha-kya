@@ -134,7 +134,7 @@ colDiv.className = "col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4 list";
 
 const li = document.createElement("li");
 li.dataset.id = note.id;
-li.className = "list_b";
+li.className = "list_b my-2";
 
 const subject = document.createElement("p");
 subject.textContent = note.subject;
