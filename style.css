@@ -47,13 +47,11 @@ color: #fff;
 border-radius: 5px;
 z-index: 9999;
 }
+.red{
+    border: 1px solid red;
+}
 /* note desining start */
-.list {
-padding: 10px;
-}
-.list:nth-child(3n + 1) {
-padding-left: 0px;
-}
+
 
 .list_b {
 background-color: #f4f4f4;
