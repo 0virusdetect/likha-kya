@@ -41,6 +41,12 @@
 </form>
 </div>
 </div>
+<footer>
+<div class="text-center mb-3">
+<hr>
+<p>Copyright &#169; 2019</p>
+</div>
+</footer>
 </div>
 
 <script src="script.js"></script>
