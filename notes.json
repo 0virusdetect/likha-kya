@@ -1,0 +1,80 @@
+[
+    {
+        "id": "664975aedb188",
+        "subject": "get a job",
+        "description": [
+            "find  a language",
+            "learn the language",
+            "find a company",
+            "get a interview",
+            "pass a interview",
+            "get a job",
+            "earn experience"
+        ]
+    },
+    {
+        "id": "664975aedb189",
+        "subject": "Learn a new skill",
+        "description": [
+            "Choose a skill to learn",
+            "Find online courses or resources",
+            "Set goals and milestones",
+            "Practice regularly",
+            "Seek feedback and improve",
+            "Apply the skill in real-world projects"
+        ]
+    },
+    {
+        "id": "664975aedb190",
+        "subject": "Plan a vacation",
+        "description": [
+            "Choose a destination",
+            "Research travel options",
+            "Book accommodation",
+            "Plan activities and sightseeing",
+            "Pack essentials",
+            "Enjoy your trip!"
+        ]
+    },
+    {
+        "id": "664975aedb191",
+        "subject": "Start a hobby",
+        "description": [
+            "Explore your interests",
+            "Research potential hobbies",
+            "Invest in necessary equipment or materials",
+            "Find communities or clubs related to your hobby",
+            "Practice and improve your skills",
+            "Enjoy the process and have fun"
+        ]
+    },
+    {
+        "id": "664975aedb192",
+        "subject": "Read more books",
+        "description": [
+            "Create a reading list",
+            "Set aside dedicated time for reading",
+            "Visit libraries or bookstores",
+            "Explore different genres and authors",
+            "Take notes and reflect on what you read",
+            "Share your favorite books with others"
+        ]
+    },
+    {
+        "id": "664985672992a",
+        "subject": "make a website",
+        "description": [
+            "find a domain name",
+            "buy a server",
+            "find 10 posts"
+        ]
+    },
+    {
+        "id": "66498991bd745",
+        "subject": "upload it on github",
+        "description": [
+            "merge all the projects on github",
+            "change profile photo"
+        ]
+    }
+]
