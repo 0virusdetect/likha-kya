@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Likha kya ?</title>
-  <link rel="shortcut icon" href="favicon.svg" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.svg" type="image/x-icon">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
@@ -21,7 +21,7 @@
 <ul class="row" id="notesList"></ul>
 
 <!-- Modal -->
-<div id="noteModal" class="modal1 col-4">
+<div id="noteModal" class="modal1 col-10 col-sm-10 col-md-8 col-lg-4 col-xl-4 col-xxl-4">
 <div class="modal1-content">
 
 <form id="noteForm">
@@ -34,7 +34,7 @@
 
 <div class="form-group my-3">
 <label for="description">Description</label>
-<textarea required name="title" type="text" class="form-control" id="description" placeholder="Enter Title"></textarea>
+<textarea rows="6" required name="title" type="text" class="form-control" id="description" placeholder="Enter Description"></textarea>
 </div>
 
 <button class="text-center btn btn-success w-100" type="submit">Save Note</button>
